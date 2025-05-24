@@ -1,0 +1,6 @@
+<scheme name="Moonlit" version="142" parent_scheme="Darcula">
+    <metaInfo>
+        <property name="ide">idea</property>
+        <property name="ideVersion">2024.3.5.0.0</property>
+    </metaInfo>
+</scheme>

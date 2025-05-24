@@ -2,7 +2,7 @@
 <idea-plugin>
     <!-- Unique identifier of the plugin. It should be FQN. It cannot be changed between the plugin versions. -->
     <id>com.charlesbases.moonlit-theme</id>
-    <version>243</version>
+    <version>243.20250501</version>
 
     <!-- Public plugin name should be written in Title Case.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
@@ -18,7 +18,7 @@
          Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-description -->
     <description><![CDATA[
-    A dark theme for JetBrains IDEs.
+    This color theme uses modern colors that will enhance readability whilst keeping eyestrain to a minimum.
   ]]></description>
 
     <!-- Short summary of new features and bugfixes in the latest plugin version.
